@@ -1,3 +1,13 @@
+# data directories:
 /data/
-__pycache__
-.DS_store
+
+# cached files
+.cache
+.pycache
+
+# environment files:
+/.venv/
+/venv/
+
+# OS Generated:
+.DS_Store*
